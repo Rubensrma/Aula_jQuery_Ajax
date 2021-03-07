@@ -4,7 +4,7 @@ Curso de Introdução à biblioteca jQuery da @digitalinnovationone, ministrado 
 
 🚀 **Tecnologias Utilizadas**
 
-**O projeto foi desenvolvido utilizando as seguintes tecnologias**
+**O projeto foi desenvolvido utilizando as seguintes tecnologias:**
 
 - HTML5
 - CSS3
